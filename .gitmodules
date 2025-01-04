@@ -1,3 +1,6 @@
 [submodule "NestJS"]
 	path = NestJS
 	url = https://github.com/solomonjdavid001/NestJS.git
+[submodule "MLOps"]
+	path = MLOps
+	url = https://github.com/solomonjdavid001/MLOps.git
